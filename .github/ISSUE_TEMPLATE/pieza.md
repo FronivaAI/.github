@@ -1,6 +1,6 @@
 ---
 name: Pieza
-about: The spec of exactly one PR, written before the code. Its PR closes it with «Closes #n».
+about: "The spec of exactly one PR, written before the code. Its PR closes it with «Closes #n»."
 title: ""
 type: Pieza
 ---
